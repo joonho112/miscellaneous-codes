@@ -22,8 +22,7 @@ rm(list=ls())   # delete all the objects in the workspace
 
 
 ### Set working directory 
-work_dir <- c("~/data-manipulation-and-visualization")
-setwd(work_dir)
+setwd("~/miscellaneous-codes/data manipulation and visualization")
 
 
 ### Call libraries
